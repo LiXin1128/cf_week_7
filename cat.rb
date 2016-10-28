@@ -27,8 +27,6 @@ class Cat
 	end
 end
 
-
-
 kitty = Cat.new("gery", "Persian")
 
 puts "What color is our cat?"
